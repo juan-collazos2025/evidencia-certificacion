@@ -1,1 +1,2 @@
-
+mkdir -p feature/certification/recursos-adicionales
+touch feature/certification/evidencia.md
